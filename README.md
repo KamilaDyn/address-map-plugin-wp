@@ -4,11 +4,11 @@ Wtyczka dla wordpressa. Dodawanie adresów do mapy z pinezkami poprzez własny t
 
 ## Demo View
 
-<img src="./demo/demo.gif" width="500" height="400" />
+<img src="./demo/demo.gif"/>
 
 
 # CPT
-Table z kolumnami (nazwa placówki, ulica, numer, kod pocztowy, miejscowość, kraj, data publikacji);
+Tabele z kolumnami (nazwa placówki, ulica, numer, kod pocztowy, miejscowość, kraj, data publikacji);
 
 # Metaboxes
 Pola do wprowadzenia adresu  (placówki, ulica, numer, kod pocztowy, miejscowość, kraj)
