@@ -1,0 +1,38 @@
+.leaflet-popup-content {
+    width: 340px;
+    height: auto;
+    margin: 0 !important;
+    padding: 5px;
+}
+
+.leaflet-popup-content div {
+    display: flex;
+}
+
+.leaflet-popup-content .wp-post-image {
+    width: 120px;
+    height: 100px;
+
+}
+
+.leaflet-popup-content .popup-text {
+    width: 200px;
+    display: block;
+    padding-left: 5px;
+}
+
+.leaflet-popup-content .popup-text h4 {
+    margin: 2.5px 0;
+    font-weight: bold;
+    color: #111;
+}
+
+.leaflet-popup-content .popup-text p {
+    margin: 0;
+    padding: 0;
+    line-height: 1rem;
+}
+
+.leaflet-popup-content h4 {
+    font-size: 1rem;
+}
