@@ -13,6 +13,10 @@ Tabele z kolumnami (nazwa placówki, ulica, numer, kod pocztowy, miejscowość, 
 # Metaboxes
 Pola do wprowadzenia adresu  (placówki, ulica, numer, kod pocztowy, miejscowość, kraj)
 
+# Shortcut
+
+[address_map]
+
 # WP-json Router
 https://{nazwa domeny}/wp-json/address-map/v1/search
 
